@@ -34,9 +34,7 @@ import math
 import time
 import landmarks as lm
 # import mask as m
-import imutils
 import sys
-import cv2
 from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtGui import QImage, QPixmap, QFont
 from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QHBoxLayout, QWidget, QGraphicsDropShadowEffect
