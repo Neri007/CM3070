@@ -33,7 +33,7 @@ import mediapipe as mp
 import math
 import time
 import landmarks as lm
-# import mask as m
+import mask as m
 import sys
 from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtGui import QImage, QPixmap, QFont
