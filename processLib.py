@@ -21,7 +21,7 @@ import math
 import time
 import landmarks as lm
 import mask as m
-import imutils
+# import imutils
 import sys
 import cv2
 from PyQt5.QtCore import Qt, QTimer
