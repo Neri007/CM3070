@@ -1,4 +1,4 @@
-# Facial Emotion Recognition $ Trainer Project
+# Facial Emotion Recognition & Trainer Project
 
 ## Install Python
 Python v3.9.16
